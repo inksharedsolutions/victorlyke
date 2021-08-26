@@ -4,12 +4,7 @@ import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
-import Book1 from '../../static/books/book1.png'
-import Book2 from '../../static/books/book2.png'
 import Book3 from '../../static/books/book3.png'
-import Book4 from '../../static/books/book4.png'
-import Book5 from '../../static/books/book5.png'
-import Book6 from '../../static/books/book6.png'
 import { Helmet } from 'react-helmet'
 
 const ATB = (props) => {
