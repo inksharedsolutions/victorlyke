@@ -20,13 +20,13 @@ Adam Paul Ishmael nor its employees, agents, third-party information providers, 
 Adam Paul Ishmael . 
 Adam Paul Ishmael reserves the right to change or discontinue at any time
 
-##Exclusion of Liability
+## Exclusion of Liability
 
 The content of the pages of this website is for your general information and use only. It is subject to change without notice.
 
 Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
-##Indemnification
+## Indemnification
 
 Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
 
@@ -41,7 +41,7 @@ From time to time this website may also include links to other websites. These l
 Certain areas of this Website are restricted from access by you and 
 Adam Paul Ishmael may further restrict access by you to any areas of this Website, at any time, in its sole and absolute discretion. Any user ID and password you may have for this Website are confidential and you must maintain confidentiality of such information.
 
-##Copyright
+## Copyright
 
 Except for material in the public domain under United States of America copyright law, all material contained on the Website (including all software, HTML code, and other code) is protected by United States of America and foreign copyright laws. Except as otherwise expressly provided in these terms and conditions, you may not copy, distribute, transmit, display, perform, reproduce, publish, license, modify, rewrite, create derivative works from, transfer, or sell any material contained on the Web site without the prior consent of the copyright owner.
 
