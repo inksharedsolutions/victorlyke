@@ -10,7 +10,7 @@ const Banner = () => {
                         <div className="grid-child-elem">
                             <div className="banner-text">
                                 <h1>
-                                If you butcher me because of my faith, will that make me willingly to accept yours.
+                                If you butcher me because of my faith, will that make me willingly to accept yours?
                                 </h1>
                                 {/* <p className="right-sub-text">
                                     <span>

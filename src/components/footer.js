@@ -22,8 +22,8 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Adam Paul Ishmael loves to hear from readers. You can reach her via email.
-                            Feel free to send questions about writing, her works, interviews
+                            Adam Paul Ishmael loves to hear from readers. You can reach him via email.
+                            Feel free to send questions about writing, him works, interviews
                             and other publicity matters.
                         </p>
 
@@ -125,7 +125,7 @@ const Footer = () => {
                             src={LogoFooter}
                         />
 
-                        &#169; Copyright 2020. Stratton Press.
+                        &#169; Copyright 2021. Stratton Press.
                     </p>
 
                     <ul className="two-grid-column" id="metalinks-footer">

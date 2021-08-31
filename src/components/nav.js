@@ -10,7 +10,7 @@ const Nav = (props) => {
     const pages = [
         'Home',
         'Author',
-        'Books',
+        'Book',
         'Contact'
     ]
 

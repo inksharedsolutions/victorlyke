@@ -78,7 +78,7 @@
 
     &:after {
         content: "";
-        background: url("../../../static/banner/bg-building.jpeg") no-repeat;
+        background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url("../../../static/banner/bg-building.jpeg") no-repeat;
         // background-image: linear-gradient(to bottom, #000000 0%, #353535 100%);
         position: absolute;
         height: 100vh;
@@ -112,6 +112,7 @@
 
 .heading--featured {
     span {
+        line-height: 60px;
         display: block;
     }
 }
@@ -148,7 +149,7 @@
 
     h1 {
 
-        text-transform: uppercase;
+        // text-transform: uppercase;
         text-shadow: 9px 10px #000000;
         font-size: 4rem;
         line-height: 1;

@@ -62,7 +62,7 @@ const Contact = (props) => {
                                         type="text" />
                                       <input
                                         name="author"
-                                        type="hidden"  value = 'Victor Lyke'/>
+                                        type="hidden"  value = 'Adam Paul Ishmael'/>
 
                                     <Inputs
                                         name="phone"
