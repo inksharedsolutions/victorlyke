@@ -37,7 +37,7 @@ const ATB = (props) => {
 
                         <article className="article-section column" id="author">
                             <p>
-                            The Idea of this book came to me after my voluntary assignment in Afghanistan and when I saw that Truth is appreciated and needed there too.  Plus I realized how they needed happiness forfilled too and they were/are tired of corruption, bad government, and war.
+                            The Idea of this book came to me after my voluntary assignment in Afghanistan and when I saw that Truth is appreciated and needed there too.  Plus I realized how they needed happiness forfilled too and they were/are tired of corruption, bad government, and war.  They wanted and still need better- not only economically, futuristically, and presently- but to be strengthen spiritually.  And I believe this book would be a good start for the Muslim World and the people of Afghanistan once translated in their language (i.e. Arabic) for building peace among themselves and others. 
                             </p>
 
                             <p>
