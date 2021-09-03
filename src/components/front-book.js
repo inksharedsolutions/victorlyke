@@ -28,7 +28,7 @@ const MidBook = (props) => {
                             </p>
 
                             <button className="btn-book-featured" data-aos="fade-up" data-aos-duration="3000">
-                                <Link to="/books">
+                                <Link to="/book">
                                     Read More
                                 </Link>
                             </button>

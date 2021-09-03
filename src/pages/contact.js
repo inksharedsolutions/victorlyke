@@ -107,18 +107,17 @@ const Contact = (props) => {
                         <div className="info-section-address">
                             <span>
                                 <h5>Address</h5>
-                                831 N Tatnall Street, Suite M #188 Wilmington,
-                                DE 19801
+                                <p>831 N Tatnall Street, Suite M #188 Wilmington, DE 19801</p>
                             </span>
 
                             <span>
                                 <h5>Phone</h5>
-                                888-323-7009
+                                <a href="tel:8883237009">888-323-7009</a>
                             </span>
 
                             <span>
                                 <h5>Email</h5>
-                                publish@stratton-press.com
+                                <a href="mailto:publish@stratton-press.com" >publish@stratton-press.com</a>
                             </span>
                         </div>
                     </div>

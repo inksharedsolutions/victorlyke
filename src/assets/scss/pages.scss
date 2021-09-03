@@ -155,8 +155,8 @@ $prm-font-size: 12px;
 	border-radius: 1px !important;
 	width: 100% !important;
 	max-width: 100%;
-	background: #1f1f21;
-	color: white;
+	// background: #1f1f21;
+	color: black;
 
 }
 
@@ -191,17 +191,18 @@ $prm-font-size: 12px;
 
 .textArea {
 	height: 250px;
-	border: 1px solid #cecece;
+	// border: 1px solid #cecece;
 	width: 100%;
-	background: #1f1f21;
+	// background: #1f1f21;
 	padding: 1%;
+	color: black;
 }
 
 .abtiaryButton {
 	padding: 13px 74px;
 	border: none;
 	cursor: pointer;
-	background: #32ce3d;
+	background: #608d62;
 	color: #fff;
 	text-transform: uppercase;
 	margin-top: 39px;
@@ -327,7 +328,7 @@ $prm-font-size: 12px;
 			content: '';
 			width: 101px;
 			height: 2px;
-			background-color: #75caff;
+			background-color: #71a574;
 			display: block;
 			margin: 11px 0;
 		}
@@ -393,7 +394,6 @@ $prm-font-size: 12px;
 		font-weight: 100 !important;
 		margin: 30px 0px;
 		font-size: 13px;
-		color: #5d5d5d;
 
 		h5 {
 			text-align: center;
@@ -401,6 +401,11 @@ $prm-font-size: 12px;
 			letter-spacing: 5px;
 			text-transform: uppercase;
 			color: #ffffff;
+			font-weight: bold;
+		}
+
+		a, p {
+			color: #c5c5c5;
 		}
 	}
 }
