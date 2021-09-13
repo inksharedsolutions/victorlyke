@@ -49,13 +49,13 @@ const ATB = (props) => {
                                     `,
 
                                 ebooks: {
-                                    barnes: 'https://www.barnesandnoble.com/w/the-city-of-the-sky-tj-keogh/1139629068?ean=9781648954191',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-acclaimed-writings-of-truth-adam-paul-ishmael/1125086035?ean=9781648953118',
                                     amazon: 'https://www.amazon.ca/Acclaimed-Writings-Truth-Adam-Ishmael-ebook/dp/B0975VYQ1V/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1628018744&sr=1-1',
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.ca/Acclaimed-Writings-Truth-Adam-Ishmael/dp/1648953107/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628018744&sr=1-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/the-acclaimed-writings-of-truth-adam-paul-ishmael/1125086035?ean=9781524557416',
-                                    booksamillion: 'https://www.booksamillion.com/p/Acclaimed-Writings-Truth/Adam-Paul-Ishmael/9781524557416?id=8255501074287',
+                                    barnes: '',
+                                    booksamillion: 'https://www.booksamillion.com/p/Acclaimed-Writings-Truth/Adam-Paul-Ishmael/9781648953101?id=8312449787077',
                                 }
                             }}
                         />

@@ -39,6 +39,8 @@ $prm-font-size: 12px;
 
 .columns {
 	margin-bottom: 0;
+	// justify-content: center;
+	align-items: center;
 }
 
 .body-author-contents {
@@ -123,7 +125,7 @@ $prm-font-size: 12px;
 	text-align: center;
 
 	img {
-		/* width: 100%; */
+		max-width: 90%;
 		padding: 0px;
 		margin: 0;
 	}
