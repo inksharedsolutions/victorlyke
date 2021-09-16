@@ -54,7 +54,7 @@ const ATB = (props) => {
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.ca/Acclaimed-Writings-Truth-Adam-Ishmael/dp/1648953107/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628018744&sr=1-1',
-                                    barnes: '',
+                                    barnes: 'https://www.barnesandnoble.com/w/the-acclaimed-writings-of-truth-adam-paul-ishmael/1125086035?ean=9781648953101',
                                     booksamillion: 'https://www.booksamillion.com/p/Acclaimed-Writings-Truth/Adam-Paul-Ishmael/9781648953101?id=8312449787077',
                                 }
                             }}
